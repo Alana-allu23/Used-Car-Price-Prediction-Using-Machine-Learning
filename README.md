@@ -18,8 +18,7 @@ The project covers the complete machine learning workflow, including:
 - Hyperparameter Tuning
 - Final Price Prediction
 - Model Saving
-- Streamlit Web Application
-- Deployment
+
 
 The final model selected for this project is a **Tuned XGBoost Regressor**, which achieved an **R² score of approximately 93.55%** on the test dataset.
 
